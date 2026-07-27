@@ -1,5 +1,5 @@
 👋 Hey, I'm Kritarth
-🚀 Vibe Coder • Student • Always Building
+🚀 Professional Coder (100%) • Student • Always Building
 
 I like turning random ideas into projects. Whether it's AI, web apps, automation, or game modding, I'm usually experimenting with something new.
 
