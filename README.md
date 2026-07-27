@@ -1,23 +1,18 @@
-👋 Hey, I'm Kritarth
-🚀 Professional Coder (100%) • Student • Always Building
+# Hey, I'm Kritarth :wave:
 
-I like turning random ideas into projects. Whether it's AI, web apps, automation, or game modding, I'm usually experimenting with something new.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+there!;Student+Developer;Building+cool+stuff." />
 
-💻 What I work with
-C# and C++
-Python
-Git & GitHub
-AI tools & APIs
-🌱 Currently Learning
-Full-stack development
-Better UI/UX
-AI integrations
-Building projects that people actually use
-⚡ Fun Facts
-I learn by building.
-If there's a faster way to automate something, I'll probably find it.
-Coffee isn't required, but good music definitely is.
+Student developer building AI, automation and web projects.
 
-"Build first. Optimize later."
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,git,github,vscode" />
 
-⭐ Feel free to check out my repositories. If you like something, leave a star!
+### Currently
+- :hammer: Building cool side projects
+- :books: Learning Full Stack
+- :zap: Open to collaboration
+
+Contact:
+
+Project Links:
+
+<!-- just put ur contact and project links here browski  --!>
