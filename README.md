@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hey, I'm Kritarth
+🚀 Vibe Coder • Student • Always Building
 
-<!--
-**L3gitFoxy/L3gitFoxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like turning random ideas into projects. Whether it's AI, web apps, automation, or game modding, I'm usually experimenting with something new.
 
-Here are some ideas to get you started:
+💻 What I work with
+C# and C++
+Python
+Git & GitHub
+AI tools & APIs
+🌱 Currently Learning
+Full-stack development
+Better UI/UX
+AI integrations
+Building projects that people actually use
+⚡ Fun Facts
+I learn by building.
+If there's a faster way to automate something, I'll probably find it.
+Coffee isn't required, but good music definitely is.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Build first. Optimize later."
+
+⭐ Feel free to check out my repositories. If you like something, leave a star!
